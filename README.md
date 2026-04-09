@@ -1,5 +1,6 @@
-## Welcome to Padlad Website
-This Website is presenting Work concerning PArticipatory Design of Learning Analytics Dashboards.
+## Welcome Atelier RJC EIAH TBA
+
+site de l'atelier 
 
 It uses githubpages, with slate theme as default, and include header menu.
 
