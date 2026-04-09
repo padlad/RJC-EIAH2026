@@ -15,7 +15,7 @@ Cet atelier réflexif vise 3 objectifs :
  2. présenter un état de l’art de quelques recherches en cours ;
  3. permettre un travail collectif autour de la question de l’évaluation des TBA
 
-![Grenoble](/assets/Grenoble_City.jpg)
+ ![Grenoble](/assets/Grenoble_City.jpg)
 
 ### Informations 
 
