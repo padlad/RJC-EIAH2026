@@ -1,6 +1,7 @@
 theme: jekyll-theme-slate
 
 title: Méthodes, enjeux et limites de l'évaluation des tableaux de bord d’apprentissage
+subtitle: "Atelier RJC EIAH 2026"
 baseurl: "https://padlad.github.io/RJC-EIAH2026/"
 url:  "https://padlad.github.io/RJC-EIAH2026/"
 
