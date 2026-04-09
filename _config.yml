@@ -1,5 +1,4 @@
-theme: jekyll-theme-slate
-
+#site stettings
 title: Méthodes, enjeux et limites de l'évaluation des tableaux de bord d’apprentissage
 subtitle: "Atelier RJC EIAH 2026"
 baseurl: "https://padlad.github.io/RJC-EIAH2026/"
