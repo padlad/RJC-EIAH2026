@@ -49,3 +49,8 @@ En nous appuyant sur les critères de qualité et les principes méthodologiques
 Cette recherche présente une étude expérimentale portant sur un tableau de bord d’apprentissage destiné aux apprenants *écri+*. Ce tableau intègre à la fois des indicateurs comportementaux et un agent autoréflexif nommé *ReflAgent*. L’objectif principal est d’évaluer l’interprétabilité des indicateurs, la pertinence des visualisations et leur rôle de message autoréflexif dans le soutien à l’autorégulation des apprenants. Menées dans le cadre d’un protocole *Human-Centered Learning Analytics and AI* (HCLA/AI), les expérimentations révèlent que les heatmaps offrent une meilleure lisibilité temporelle que les diagrammes en radar. Elles soulignent également le caractère essentiel d’un accompagnement explicatif.
 Les résultats quantitatifs et qualitatifs confirment l’utilité pédagogique de ReflAgent, avec des scores de confiance élevés (76% à 92%) et une fiabilité inter-évaluateurs substantielle (κ > 0, 75). Cette recherche s’appuie sur une étude de cas fondée sur des données réelles issues du projet écri+1, un projet national financé par l’ANR2 (Agence nationale de la recherche) réunissant 16 partenaires, dont 12 universités.
 [Lisez le résumé détaillé)](assets/RJC-EIAH 2026 ecri.pdf)
+
+## Co-production d'un canevas
+
+ Partant des 3 retours d'expériences, nous entamerons un travail de formalisation des différentes dimensions de l'évaluation d'un tableau de bord, en explicitant ce qui est spécifique à cet objet.
+ La prise de notes se fera sur un [document partagé](https://pad.infini.fr/p/evalTBA)
