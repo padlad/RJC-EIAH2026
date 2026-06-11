@@ -22,6 +22,8 @@ Dans le cadre de l’atelier réflexif sur l’évaluation des tableaux de bord,
 Nous avons suivi une démarche de recherche orientée par la conception (DBR), qui a permis de concevoir et évaluer le TdB en étant au plus près du terrain. Le TdB a été conçu selon les principes de conception suivants : aider les élèves à (i) conscientiser leurs activités, les activités des autres membres de leur équipe et l’activité de l’enseignant dans l’espace de travail partagé, (ii) déclencher des processus de régulation. Nous montrons comment ces principes ont été implémentés dans le tableau de bord. 
 Nous terminons cet atelier par les premiers résultats d’une évaluation du tableau de bord qui combine un sondage auprès d’un petit nombre d’étudiants et des traces numériques sur un effectif plus grand. Le sondage permet d’avoir un retour sur l’utilité perçue des différents éléments du tableau de bord. Les traces numériques permettent de comprendre comment les étudiants utilisent réellement le tableau de bord. 
 
+[Support de présentation LabNBook](assets/TdB étudiant_LabNBook_RJC2026_Girault_Hoffmann.pdf)
+
 
 ### YEPA, un tableau de bord cognitif et réflexif : conception itérative (DBR) et évaluation au prisme du framework THEDRE
 
@@ -41,6 +43,9 @@ En nous appuyant sur les critères de qualité et les principes méthodologiques
   1.	**L'évaluation de l'impact pédagogique** : Le développement en cours du "diagnostic pédagogique" dans YEPA permettra de détecter automatiquement des similarités, des lacunes ou des conflits instrumentaux (tensions, catachrèses, etc.). Cela ouvre la voie à de nouvelles mesures d'impact sur la régulation de l'apprentissage.
   2.	**Généralisation et déploiement à large échelle (Principe 9)** : Conformément à la volonté de généraliser les modèles locaux, un accès très ouvert à YEPA permettra non seulement d’utiliser YEPA dans divers champs d’application mais aussi de l’utiliser pour analyser et comparer une grande variété de modèles (LX Maps).
 
+[Support de présentation Yepa](assets/Yepa Atelier EIAH Grenoble.pdf)
+
+
 ### Tableau de bord d’apprentissage pour soutenir la métacognition des apprenants d’écri+
 
 *Abdelkader Ouared, Claudine Piau-Toffolon, Madeth May, Nicolas Dugué*
@@ -49,6 +54,10 @@ En nous appuyant sur les critères de qualité et les principes méthodologiques
 Cette recherche présente une étude expérimentale portant sur un tableau de bord d’apprentissage destiné aux apprenants *écri+*. Ce tableau intègre à la fois des indicateurs comportementaux et un agent autoréflexif nommé *ReflAgent*. L’objectif principal est d’évaluer l’interprétabilité des indicateurs, la pertinence des visualisations et leur rôle de message autoréflexif dans le soutien à l’autorégulation des apprenants. Menées dans le cadre d’un protocole *Human-Centered Learning Analytics and AI* (HCLA/AI), les expérimentations révèlent que les heatmaps offrent une meilleure lisibilité temporelle que les diagrammes en radar. Elles soulignent également le caractère essentiel d’un accompagnement explicatif.
 Les résultats quantitatifs et qualitatifs confirment l’utilité pédagogique de ReflAgent, avec des scores de confiance élevés (76% à 92%) et une fiabilité inter-évaluateurs substantielle (κ > 0, 75). Cette recherche s’appuie sur une étude de cas fondée sur des données réelles issues du projet écri+1, un projet national financé par l’ANR2 (Agence nationale de la recherche) réunissant 16 partenaires, dont 12 universités.
 [Lisez le résumé détaillé)](assets/RJC-EIAH 2026 ecri.pdf)
+
+[Support de présentation ecri+](assets/ecriplus RJC-EIAH Final 09-06-2026.pdf)
+
+
 
 ## Co-production d'un canevas
 
