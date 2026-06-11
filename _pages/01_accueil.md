@@ -6,6 +6,9 @@ permalink: /
 
 
 ## Bienvenue sur le site de l'atelier 
+
+Retrouvez la [présentation de l'atelier](description) et surtout [le résumé et les supports de présentation, ainsi que les notes prises collectivement](programme).
+
 ### Méthodes, enjeux et limites de l'évaluation des tableaux de bord d’apprentissage
 
 L'atelier "Méthodes, enjeux et limites de l'évaluation des tableaux de bord d’apprentissage" est organisé dans le cadre des onzièmes rencontres jeunes chercheurs en EIAH (RJC EIAH 2026) qui a eu lieu à Grenoble du 9 au 12 juin 2026. Pour s'inscrire et y prendre part, merci de se rendre sur [le site de la conférence](https://rjc-eiah2026.sciencesconf.org/resource/page/id/16) et d'indiquer votre participation à cet atelier. 
