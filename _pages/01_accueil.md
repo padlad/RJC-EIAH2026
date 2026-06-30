@@ -7,7 +7,7 @@ permalink: /
 
 ## Bienvenue sur le site de l'atelier 
 
-Retrouvez la [présentation de l'atelier](description) et surtout [le résumé et les supports de présentation, ainsi que les notes prises collectivement](programme).
+Retrouvez la [présentation de l'atelier](description) et surtout [le résumé et les supports de présentation, ainsi que la synthèse des notes prises collectivement](programme).
 
 ### Méthodes, enjeux et limites de l'évaluation des tableaux de bord d’apprentissage
 
