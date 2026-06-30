@@ -59,7 +59,57 @@ Les résultats quantitatifs et qualitatifs confirment l’utilité pédagogique 
 
 
 
-## Co-production d'un canevas
+## Synthèse des échanges 
+Les présentations et les discussions ont fait l'objet d'une prise de notes collective sur un [document partagé](https://pad.infini.fr/p/evalTBA), dont nous reproduisons ici la synthèse : 
 
- Partant des 3 retours d'expériences, nous entamerons un travail de formalisation des différentes dimensions de l'évaluation d'un tableau de bord, en explicitant ce qui est spécifique à cet objet.
- La prise de notes se fera sur un [document partagé](https://pad.infini.fr/p/evalTBA)
+### Notes lors des 3 présentations
+#### LabNBook : Conception et évaluation d’un tableau de bord (TdB) étudiant sur une plateforme d’apprentissage des sciences expérimentales 
+La première présentation « Conception et évaluation d’un tableau de bord (TdB) étudiant sur une plateforme d’apprentissage des sciences expérimentales » par Isabelle Girault et Christian Hoffmann du LIG-MeTAH, Université Grenoble Alpes a mis l’accent sur l’alignement de leur tableau de bord avec leurs objectifs, à savoir la stimulation de l’autorégulation individuelle et en équipe. Le développement de ce TBA est réalisé selon une méthode de recherche DBR centrée utilisateur.
+
+Dans cette logique, la première phase était exploratoire, les premières maquettes ont été discutées dans des focus groupes avec les étudiants pour obtenir des évaluations qualitatives. Dans une deuxième phase, un questionnaire d’évaluation d’utilisabilité (499 répondants) a permis une évaluation quantitative qui a permis de plus d’obtenir certains résultats différents de ce que proposait la littérature, à savoir que les étudiants concernés rejettent en majorité la comparaison sociale. Ces résultats ont conduit à modifier le choix des indicateurs à afficher sur le TBA. Le TBA a été mis en place fin 2025 et une analyse des traces utilisateurs préliminaire a débuté. Dans un premier temps, il s’agissait de mettre en place et d’affiner les traces récoltées, ainsi que la procédure d’analyse de ces traces. Le but est   de qualifier l’utilisation des différents constituants de l’interface, notamment la perception et l’utilisation de certaines éléments de l’interface censées alerter l’utilisateur. et de l’amener à agir en conséquence. A ce stade, les traces et procédures sont en place et une récolte de traces peut être envisagée pour la rentrée 2026 afin d’évaluer l’atteinte de l’objectif du TBA.  
+
+Notons également que pour ce projet, le TBA est un panneau spécifique au centre de l’écran, entouré d’autres informations sur l’écran principal (rapports en cours, agenda), visant à amener l’étudiant sur une activité de son choix.
+
+#### YEPA, un tableau de bord cognitif et réflexif : conception itérative (DBR) et évaluation au prisme du framework THEDRE
+La seconde présentation « YEPA, un tableau de bord cognitif et réflexif : conception itérative (DBR) et évaluation au prisme du framework THEDRE » par Bernadette Charlier, Yllyl.ch a mis l’accent sur la genèse du projet, basé sur le travail de thèse de Joris Felder qui a développé [la méthode MEPA](https://www.atief.fr/STICEF-archives/num/vol2019/26.1.2.felder/26.1.2.felder.html), qui a ensuite continué son travail de recherche en développant une entreprise et un outil permettant la réflexivité sur ses processus d’apprentissage et leur outillage. Le cœur de cet outil est un modèle de représentation du système d’instrument couplant outils et pratiques. Le choix de l’outil est de développer la construction et l’exploration de son propre système d’apprentissage au travers d’agents conversationnels.
+
+Deux éléments distincts d’évaluation sont présentés. Le premier est quantitatif et vise à qualifier la qualité du système d’IA sous-jacent (précision par rapport au modèle spécialisé sous-jacent et temps de réponse, en comparaison avec d’autres systèmes d’IA généralistes). La question est donc la qualité des retours et la conformité par rapport à des modèles de référence. Le second porte sur des évaluations qualitatives par rapport à des objectifs d’impact : remobilisation, verbalisation des compétences et restauration de l'estime de soi, intégration dans les pratiques …
+
+Ici l’ensemble de l’outil est considéré comme tableau de bord, au sens où il fournit des visualisations variées pour supporter un cadre de réflexion visant des impacts comportementaux et métacognitifs.
+#### Ecri+ : Tableau de bord d’apprentissage pour soutenir la métacognition des apprenants d’écri+
+La troisième présentation « Tableau de bord d’apprentissage pour soutenir la métacognition des apprenants d’écri+ » par Abdelkader Ouared du LIUM, Laval. L’objectif du tableau de bord est ici de produire des feedbacks intrinsèquement motivants. La proposition est de proposer des indicateurs d’engagement et de persévérance. La conception est participative, l’utilisateur participe à la conception et à l’utilisation du TBA.
+
+Plusieurs étapes d’évaluation sont présentées : une évaluation de l’interprétabilité des indicateurs, au travers de retours de participants experts.  Cette évaluation perceptuelle permet de valider des critères de confiance en regard d’un modèle de perception motivationnelle, ici le modèle de Viau à 3 dimensions : Valeur, Compétence, Contrôlabilité.  En l’état actuel, le TBA n’est pas encore déployé, et n’est donc pas encore évalué au niveau des utilisateurs finaux (étudiants), notamment en termes d’interprétabilité.
+Le Tableau de bord est ici un écran complet intégrant informations de positionnement en termes d’engagement et de persévérance, et un feedback motivant.
+
+### Discussion
+Les échanges dans la salle ont porté sur de nombreux points que nous résumons ici autour de 3 points : la définition d’un TBA, les modèles mobilisés et les différentes évaluations.
+#### Définition du tableau de bord d’apprentissage
+Les 3 présentations démontrent une variabilité du périmètre de la définition de ce qu’est un TBA. Pour LabNBook, il s’agit d’un panneau de retours d’informations dynamiques dédié à l’action. Yepa, en tant qu’outil dédié à la réflexivité basé sur un modèle sur ses processus d’apprentissage semble considéré que le TBA est l’ensemble de l’application, sur le modèle des superviseurs industriels, qui donnent une vision dynamique complète du processus, et qui permettent de s’intéresser à des parties spécifiques pour permettre une prise de décision. ECRI+ considère le TBA comme un écran complet dédié, intégrant une vue dynamique de l’étudiant, et lui proposant un feedback.
+Dans tous les cas, il s’agit bien un retour visuel d’informations dynamiques, visant au suivi, à la compréhension, et à la prise de décision en vue d’action.
+La notion de périmètre visuel (panneau, écran, application) suscite des réactions, mais le périmètre pertinent semble bien être celui de l’objectif et des actions dédiées. La notion d’intervention, à savoir un retour spécifique vers l’utilisateur peut être intégrée ou non dans le TBA. C’est spécifiquement le cas d’Ecri+. L’action en elle-même peut être déclenchée directement dans le TBA (cas de LabNBook) ou non (cas de Ecri+).
+
+La dynamicité des informations ramène, comme souvent à la question de l’adaptation du TBA. Là encore, la question de la définition est posée. Les travaux de Rémi Barbé, [qui a soutenu sa thèse la veille de l’atelier](https://liris.cnrs.fr/these/these-remi-barbe), permet de rappeler l’existence de deux classes liées au déclenchement de l’adaptation : par l’utilisateur (adaptabilité) ou automatiquement par le système (adaptivité).
+Notons également une question récurrente dans le groupe de travail : la création d’indicateurs, leur visualisation et la catégorisation des indicateurs et des TBA. Deux travaux sont cités :
+ * D’un point de vue technique, un plateforme issue de la recherche [OpenLAP](https://openlap.de/)
+ * Un répertoire d’indicateurs issus de la recherche, au travers d’une revue de littérature sur les indicateurs : ["Connecting the dots – A literature review on learning analytics indicators from a learning design perspective"](https://onlinelibrary.wiley.com/doi/full/10.1111/jcal.12716)
+#### Modèles mobilisés dans les travaux sur les TBA
+En termes de méthodes de recherche, les différents travaux se déroulent dans un cadre de design-based-research (DBR) impliquant une approche itérative, cohérente avec la diversité des dimensions à évaluer. Elles sont également centrées utilisateurs, impliquant une dimension participative aux travaux.
+De manière moins évidente, les trois travaux présentés mobilisent des théories réflexives, portant sur la métacognition des étudiants, sur l’évolution de comportements et de confiance en soi. Le TBA s’avère être un support à  ces analyses réflexives.
+
+#### Quelles évaluations pour qualifier un TBA ?
+Les méthodes d’évaluation proposées sont variées, qualitatives dans des phases exploratoires, quantitatives ou mixtes dans les phases de déploiement pour valider les solutions retenues.
+Plusieurs dimensions sont analysées, regroupées en 3 groupes lors de la discussion : évaluation **Sur** le développement, évaluation **Pour** le développement et évaluation **Avec** le développement.
+ * **L’évaluation Sur** le développement se focalise  sur l’objet TBA. Les questions posées sont sur l’utilisabilité, l’interprétabilité du TBA. Cette dernière peut porter sur plusieurs niveaux : la compréhension des éléments de l’interface (interprétation d’icônes pour LabNBook) ou interprétation de l’ensemble par rapport aux objectifs du TBA (écri+). Dans tous les cas, nous sommes sur des questions de culture visuelle et d’IHM des utilisateurs.
+ * **L’évaluation Pour** le développement porte sur l’alignement de indicateurs par rapport aux objectifs du modèle. Dans Yepa, la question de la qualité des retours par rapport au modèles. On peut également considérer  que le travail présenté par écri+, au-delà de l’interprétabilité, se ramène à cette dimension dans le sens où la question de l’alignement par raport au modèle VCC est posée aux experts
+ * **L’évaluation Avec** le développement constitue la dernière phase d’évaluation en posant la question de l’atteinte des objectifs du TBA, donc un impact sur les pratiques ou la réussite des apprentissages. Dans le cadre de Yepa, il s’agit ici d’une analyse qualitative d’impact auprès des utilisateurs.
+Dans le cadre des TBA, ces trois dimensions constituent des étapes progressives pour la validation du TBA. La dernière étape est rarement couverte dans la littérature, et ne peut s’aborder qu’avec des déploiements réussis d’applications, ce qui est le cas de solutions commerciales. Dans ce cas, si YEPA s’avère être un exemple à suivre en matière de transparence.  Celle-ci n’est pas toujours facile dans le cadre de collaboration avec les EdTech, comme cela a été souligné lors des présentations des EdTech lors des RJC.
+Au-delà de ces présentations des questions restent posées à l’issue de cet atelier, qui pourraient faire l’objet de travaux spécifiques :
+ * Y-a-t-il des spécificités sciences de l'éducation / informatique par rapport aux intentions d'évaluation ?
+ * Les méthodes d'évaluation sont-elles spécifiques selon les intentions d'évaluation ?
+
+En guise de conclusion, les échanges dans le cadre de tels ateliers restent intéressants pour les participants, car permet de progresser collectivement sur les fondements et les techniques autour des TBA.
+
+
+
+
